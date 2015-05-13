@@ -1,0 +1,10 @@
+my:
+  super:
+    whomToGreet: "SpringCloudConfig"
+    punctuation: '!!!'
+
+configServer:
+  eureka:
+    client:
+      serviceUrl:
+        defaultZone: 'http://eurekaserver.throwback.pepsi.cf-app.com'
