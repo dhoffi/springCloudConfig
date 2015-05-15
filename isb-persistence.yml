@@ -1,4 +1,4 @@
 my:
   super:
-    whomToGreet: "isb-persistence thingy"
-    punctuation: '(ok!)'
+    whomToGreet: "isb-persistence new"
+    punctuation: '(yes!)'
