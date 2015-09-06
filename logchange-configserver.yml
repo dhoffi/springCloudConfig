@@ -1,0 +1,7 @@
+greeting:
+  value: "gittish"
+    
+logging:
+  level:
+    demo.business.facade.ws: DEBUG
+    demo.business.facade.ws.HelloWS: TRACE
